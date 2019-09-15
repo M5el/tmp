@@ -1,1 +1,124 @@
-
+{
+    "ServiceOrderCollection": [
+        {
+            "ServiceOrderId": 213244,
+            "CustomerName": "teasdfsafst1",
+            "Street": "asdfasfasff 10",
+            "City": "asdfasfsdffsf",
+            "Country": "DE",
+            "TimeStampFrom": "2019-07-23T07:25:43Z",
+            "TimeStampTo": "2019-07-23T18:25:43Z",
+            "Material": [
+                {
+                    "MaterialNumber": "4711",
+                    "MaterialText": "Ringschraube",
+                    "Quantity": 12.3,
+                    "UoM": "ST",
+                    "Batch": "90234344334",
+                    "Date": "2019-07-23T07:25:43Z",
+                    "Status": "UPLOAD"
+                },
+                {
+                    "MaterialNumber": "0815",
+                    "MaterialText": "Ringschraube",
+                    "Quantity": 4.3,
+                    "UoM": "M",
+                    "Batch": "90234344334",
+                    "Date": "2019-07-23T07:25:43Z",
+                    "Status": "TRANSFERED"
+                },
+                {
+                    "MaterialNumber": "0815",
+                    "MaterialText": "Ringschraube",
+                    "Quantity": 4.3,
+                    "UoM": "M",
+                    "Batch": "90234344334",
+                    "Date": "2019-07-23T07:25:43Z",
+                    "Status": "CONFIRMED"
+                }
+            ],
+            "Time": [
+                {
+                    "WorkCenter": "4711",
+                    "Operation": 10,
+                    "OperationText": "Prüfen asfasfsdf",
+                    "Duration": 12.3,
+                    "Unit": "STD",
+                    "TimeStampFrom": "2019-07-23T07:25:43Z",
+                    "TimeStampTo": "2019-07-23T18:25:43Z",
+                    "Status": "CONFIRMED"
+                },
+                {
+                    "WorkCenter": "4711",
+                    "Operation": 10,
+                    "OperationText": "Prüfen asfasfsdf",
+                    "Duration": 12.3,
+                    "Unit": "STD",
+                    "TimeStampFrom": "2019-07-23T07:25:43Z",
+                    "TimeStampTo": "2019-07-23T18:25:43Z",
+                    "Status": "UPLOAD"
+                }
+            ]
+        },
+        {
+            "ServiceOrderId": 653244,
+            "CustomerName": "test23233",
+            "Street": "asdfasfasff 10",
+            "City": "asdfasfsdffsf",
+            "Country": "DE",
+            "TimeStampFrom": "2019-07-23T07:25:43Z",
+            "TimeStampTo": "2019-07-23T18:25:43Z",
+            "Material": [
+                {
+                    "MaterialNumber": "4711",
+                    "MaterialText": "Ringschraube",
+                    "Quantity": 12.3,
+                    "UoM": "ST",
+                    "Batch": "90234344334",
+                    "Date": "2019-07-23T07:25:43Z",
+                    "Status": "UPLOAD"
+                },
+                {
+                    "MaterialNumber": "0815",
+                    "MaterialText": "Ringschraube",
+                    "Quantity": 4.3,
+                    "UoM": "M",
+                    "Batch": "90234344334",
+                    "Date": "2019-07-23T07:25:43Z",
+                    "Status": "TRANSFERED"
+                },
+                {
+                    "MaterialNumber": "0815",
+                    "MaterialText": "Ringschraube",
+                    "Quantity": 4.3,
+                    "UoM": "M",
+                    "Batch": "90234344334",
+                    "Date": "2019-07-23T07:25:43Z",
+                    "Status": "CONFIRMED"
+                }
+            ],
+            "Time": [
+                {
+                    "WorkCenter": "4711",
+                    "Operation": 10,
+                    "OperationText": "Prüfen asfasfsdf",
+                    "Duration": 12.3,
+                    "Unit": "STD",
+                    "TimeStampFrom": "2019-07-23T07:25:43Z",
+                    "TimeStampTo": "2019-07-23T18:25:43Z",
+                    "Status": "CONFIRMED"
+                },
+                {
+                    "WorkCenter": "4711",
+                    "Operation": 10,
+                    "OperationText": "Prüfen asfasfsdf",
+                    "Duration": 12.3,
+                    "Unit": "STD",
+                    "TimeStampFrom": "2019-07-23T07:25:43Z",
+                    "TimeStampTo": "2019-07-23T18:25:43Z",
+                    "Status": "UPLOAD"
+                }
+            ]
+        }
+    ]
+}
